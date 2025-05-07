@@ -5,7 +5,7 @@
 
 ## Tentang Kami
 
-HTechno adalah platform teknologi yang fokus pada pengembangan perangkat lunak, konsultasi IT, dan solusi berbasis digital untuk berbagai kebutuhan industri. Kami menggabungkan kreativitas, inovasi, dan keahlian teknis untuk memberikan layanan terbaik bagi klien kami.
+Evolusi Sistem Digital adalah platform teknologi yang fokus pada pengembangan perangkat lunak, konsultasi IT, dan solusi berbasis digital untuk berbagai kebutuhan industri. Kami menggabungkan kreativitas, inovasi, dan keahlian teknis untuk memberikan layanan terbaik bagi klien kami.
 
 ## Layanan Kami
 
